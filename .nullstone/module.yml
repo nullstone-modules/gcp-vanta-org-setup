@@ -1,0 +1,14 @@
+org_name: nullstone
+name: gcp-vanta-org-setup
+friendly_name: Vanta Org Setup
+description: Configures a GCP organization with Vanta
+category: block
+subcategory: ""
+provider_types:
+    - gcp
+platform: vanta
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
+tool_name: ""
